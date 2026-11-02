@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>legacyfix</id>
+  <name>legacyfix</name>
+  <description>Fix bahman legacy redirects namespace call in index.php</description>
+  <version>1.0.0</version>
+  <release>1</release>
+  <vendor>local</vendor>
+</module>
